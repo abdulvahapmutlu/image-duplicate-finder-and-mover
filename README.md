@@ -1,6 +1,5 @@
 # Image Duplicate Finder and Mover
 
-## Description:
 This Python script helps in identifying and moving duplicate images within a specified directory to a designated duplicates folder. Utilizing perceptual hashing (phash) from the `imagehash` library, the script ensures that visually similar images are detected even if they have different filenames or slight variations.
 
 ## Features:
